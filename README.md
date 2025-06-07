@@ -7,10 +7,8 @@
 - 🤝 I’m looking for help with **scaling and performance optimization**
 - 🌱 I’m currently learning **Next.js, Spring Boot, and AI integrations**
 - 💬 Ask me about **React, Vue, GSAP, and modern frontend practices**
-- 📫 How to reach me: **example@gmail.com**
-- 👨‍💻 All of my projects are available at: [Portfolio](#) <!-- replace with actual link -->
-- 📝 I regularly write articles on: [Blog](#) <!-- replace with actual link -->
-- 📄 Know about my experiences: [Resume](#) <!-- replace with actual link -->
+- 📫 How to reach me: **[abhijain6101@gmail.com](mailto:abhijain6101@gmail.com)**
+- 👨‍💻 My portfolio is under development — *coming soon!* 🚧
 - ⚡ Fun fact: *I think I’m funny 🤪*
 
 ---
@@ -26,20 +24,11 @@
 ### 🖥️ Backend Development
 `Spring Boot` `Node.js` `Express.js`
 
-### 📱 Mobile App Development
-`Flutter` `React Native`
-
-### 🧠 AI/ML
-`Pandas` `Scikit-learn` `TensorFlow (Basics)` `OpenCV`
-
 ### 🗃️ Database
 `MySQL` `MongoDB` `PostgreSQL`
 
-### 📊 Data Visualization
-`Chart.js` `D3.js`
-
-### ☁️ DevOps & Tools
-`Git` `Docker` `Firebase` `Postman` `VS Code`
+### ☁️ DevOps & Deployment
+`Git` `Docker` `Firebase` `Postman` `VS Code` `Render`
 
 ---
 
@@ -53,9 +42,7 @@
 ## 🔗 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhi-jain-a1a723298)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/abhijain?igsh=MW51azJvcndpd3lpMQ==)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/YOUR_USERNAME)  
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white)](https://dev.to/YOUR_USERNAME)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/abhijain?igsh=MW51azJvcndpd3lpMQ==)
 
 ---
 
