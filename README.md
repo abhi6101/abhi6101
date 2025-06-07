@@ -32,13 +32,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Abhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhi-jain-dev&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi-jain-dev&layout=compact&theme=radical)
-
----
-
 ## 🔗 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhi-jain-a1a723298)  
