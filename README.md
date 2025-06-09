@@ -16,13 +16,13 @@
 ## 🛠️ Skills
 
 ### 👨‍💻 Programming Languages
-`JavaScript` `TypeScript` `Java` `Python` `C` `C++`
+`JavaScript` `TypeScript` `Java`  `C` `C++`
 
 ### 🌐 Frontend Development
-`React` `Vue` `GSAP` `Tailwind` `HTML5` `CSS3` `Bootstrap` `Redux` `Material UI`
+`React` `Vue`  `Tailwind` `HTML5` `CSS3` `Bootstrap` 
 
 ### 🖥️ Backend Development
-`Spring Boot` `Node.js` `Express.js`
+`Spring Boot` 
 
 ### 🗃️ Database
 `MySQL` `MongoDB` `PostgreSQL`
