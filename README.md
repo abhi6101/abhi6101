@@ -2,7 +2,7 @@
 
 ### A passionate frontend developer from India 🇮🇳
 
-- 🔭 I’m currently working on [Placement Portal](https://hack-2-hired.onrender.com)
+- 🔭 I’m currently working on [Hack-2-hired](https://hack-2-hired.onrender.com)
 - 👯 I’m looking to collaborate on **exciting open-source and frontend projects**
 - 🤝 I’m looking for help with **scaling and performance optimization**
 - 🌱 I’m currently learning **Next.js, Spring Boot, and AI integrations**
