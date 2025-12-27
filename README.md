@@ -29,6 +29,16 @@
 
 ---
 
+### 🌟 Featured Projects
+
+| **Hack-2-Hired (Placement Portal)** | **Personal Portfolio** |
+|:---:|:---:|
+| A comprehensive job portal for students and recruiters. | A premium portfolio showcasing my design skills. |
+| [🔴 Live Demo](https://hack-2-hired.vercel.app) | [🟢 Live Demo](https://abhi-jain-tech.vercel.app/) |
+| `React` `Spring Boot` `MySQL` | `React` `Glassmorphism` `Vite` |
+
+---
+
 ### 🛠️ Tech Stack & Skills
 
 <div align="center">
@@ -41,25 +51,11 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🐍 GitHub Snake
+*(A fun animation of your contribution graph - this usually loads much better than stats cards)*
 
 <div align="center">
-  <!-- GitHub Stats Card -->
-  <a href="https://github.com/abhi6101">
-    <img src="https://github-readme-stats.vercel.app/api?username=abhi6101&show_icons=true&theme=radical&count_private=true" alt="Abhi's Stats" />
-  </a>
-  <br/>
-  <!-- Top Languages Card -->
-  <a href="https://github.com/abhi6101">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi6101&layout=compact&theme=radical" alt="Top Languages" />
-  </a>
-</div>
-
-<br/>
-
-<!-- Streak Stats (Optional - adds more dynamic content) -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi6101&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-snake.vercel.app/api?username=abhi6101&palette=github-dark&color_snake=5c6bc0" alt="snake animation" />
 </div>
 
 ---
