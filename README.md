@@ -44,14 +44,22 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhi6101&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Abhi's Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi6101&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" height="180" />
+  <!-- GitHub Stats Card -->
+  <a href="https://github.com/abhi6101">
+    <img src="https://github-readme-stats.vercel.app/api?username=abhi6101&show_icons=true&theme=radical&count_private=true" alt="Abhi's Stats" />
+  </a>
+  <br/>
+  <!-- Top Languages Card -->
+  <a href="https://github.com/abhi6101">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi6101&layout=compact&theme=radical" alt="Top Languages" />
+  </a>
 </div>
 
 <br/>
 
+<!-- Streak Stats (Optional - adds more dynamic content) -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhi6101&theme=flat&no-frame=true&margin-w=15" alt="Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi6101&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
