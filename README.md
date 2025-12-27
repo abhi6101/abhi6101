@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Next.js, Spring Boot, and AI integrations**
 - 💬 Ask me about **React, Vue, GSAP, and modern frontend practices**
 - 📫 How to reach me: **[abhijain6101@gmail.com](mailto:abhijain6101@gmail.com)**
-- 👨‍💻 My portfolio is under development — *coming soon!* 🚧
+- 👨‍💻 My portfolio **[ portfolio](https://abhi-jain-tech.vercel.app/)**
 - ⚡ Fun fact: *I think I’m funny 🤪*
 
 ---
