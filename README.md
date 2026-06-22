@@ -1,20 +1,20 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:3300ff&height=250&section=header&text=Abhi%20Jain&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Frontend%20Architect%20|%20Full%20Stack%20Developer&descAlignY=65&descSize=25&fontColor=ffffff" alt="Abhi Jain header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:3300ff&height=250&section=header&text=Abhi%20Jain&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Frontend%20Architect%20|%20Full%20Stack%20Engineer&descAlignY=65&descSize=25&fontColor=ffffff" alt="Abhi Jain" width="100%" />
   
+  <br />
+
+  <!-- TYPING INTRO -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00ffff&center=true&vCenter=true&width=500&lines=Full+Stack+Wizardry+%E2%9C%A8;Architecting+Pixel-Perfect+UIs+%F0%9F%8E%A8;Spring+Boot+%26+React+Expertise+%E2%9A%99%EF%B8%8F;Building+Scalable+Microservices+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=abhi6101&label=Profile%20Views&color=00ffff&style=flat-square" alt="Views" />
+    <img src="https://komarev.com/ghpvc/?username=abhi6101&label=PROFILE+VIEWS&color=00ffff&style=flat-square" alt="Views" />
+    <img src="https://img.shields.io/github/followers/abhi6101?label=FOLLOWERS&style=flat-square&color=3300ff" alt="Followers" />
   </p>
 </div>
 
-<!-- TYPING INTRO -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2309F1&center=true&vCenter=true&width=500&lines=Hi+There!+%F0%9F%91%8B;I+build+pixel-perfect+UIs;React+%2B+Spring+Boot+Expertise;Turning+Coffee+into+Scalable+Code...;Always+Learning...+Always+Coding..." alt="Typing SVG" />
-  </a>
-</div>
-
-<!-- SOCIAL LINKS -->
 <div align="center">
   <a href="https://abhi-jain-tech.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -29,64 +29,52 @@
 
 <br />
 
-<!-- TROPHIES SECTION -->
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=abhi6101&theme=dracula&no-frame=true&column=4&margin-w=15" alt="github trophies" />
-  </a>
-</div>
-
----
-
-### ⚡ Quick Overview
-
-- 🔭 I’m currently working on **Full Stack Web Applications**
-- 🎨 Passionate about **GSAP, Framer Motion, and UI/UX**
-- ⚙️ Backend expertise in **Spring Boot & Microservices**
-- 💬 Ask me about **React, Java, or CSS animations**
-- 📫 Reach me at: **abhijain6101@gmail.com**
+<!-- INTRO SECTION -->
+<table>
+  <tr>
+    <td width="50%">
+      <h3>⚡ The Quick Loop</h3>
+      <ul>
+        <li>🔭 Currently architecting <b>Enterprise Full Stack Apps</b></li>
+        <li>🎨 Master of <b>GSAP, Framer Motion, and Three.js</b></li>
+        <li>⚙️ Scalable backend design using <b>Spring Boot & Microservices</b></li>
+        <li>🌱 Exploring the depths of <b>Web3 and AI Integration</b></li>
+        <li>💬 Ask me about <b>Performance Optimization or UX Motion</b></li>
+      </ul>
+    </td>
+    <td width="50%" align="center">
+       <img src="https://github-profile-trophy.vercel.app/?username=abhi6101&theme=tokyonight&no-frame=true&column=2&margin-w=15" alt="trophies" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🛠️ My Digital Toolbox
 
 <div align="center">
-  <table width="100%">
-    <tr>
-      <td width="33%" align="center"><b>Frontend</b></td>
-      <td width="33%" align="center"><b>Backend</b></td>
-      <td width="33%" align="center"><b>Tools & DevOps</b></td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,css,js,html&perline=3" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,maven&perline=3" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=git,docker,vscode,postman,vercel,github&perline=3" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,gsap,threejs,framer,js,ts,html,css&perline=10" alt="Frontend Skills" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,hibernate,maven,docker,postman&perline=10" alt="Backend Skills" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,aws&perline=10" alt="Tooling" />
 </div>
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Engineering
 
 <div align="center">
-  <br/>
   <table border="0">
     <tr>
       <td>
         <a href="https://hack-2-hired.vercel.app">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhi6101&repo=Hack-2-Hired&theme=omni&show_owner=true" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhi6101&repo=Hack-2-Hired&theme=tokyonight&show_owner=true" />
         </a>
       </td>
       <td>
         <a href="https://abhi-jain-tech.vercel.app/">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhi6101&repo=Personal-Portfolio&theme=omni&show_owner=true" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhi6101&repo=Personal-Portfolio&theme=tokyonight&show_owner=true" />
         </a>
       </td>
     </tr>
@@ -95,25 +83,28 @@
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 Vital Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhi6101&show_icons=true&theme=omni&hide_border=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi6101&layout=compact&theme=omni&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhi6101&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi6101&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi6101&theme=omni&hide_border=true" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi6101&theme=tokyonight&hide_border=true" alt="streak stats" />
 </div>
 
-<!-- CONTRIBUTION SNAKE -->
+<!-- SNAKE ANIMATION -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
 
-<!-- FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Keep%20Coding%20%E2%9C%A8&fontSize=25&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Innovating%20One%20Pixel%20at%20a%20Time%20%E2%9C%A8&fontSize=25&fontColor=ffffff" width="100%" />
 </div>
