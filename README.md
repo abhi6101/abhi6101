@@ -1,74 +1,50 @@
-# Abhi Jain
+<!-- ================================================================= -->
+<!-- HERO BANNER & IDENTITY                                            -->
+<!-- ================================================================= -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,50:0077B6,100:03045E&height=240&section=header&text=Abhi%20Jain&fontSize=74&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Java%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20React.js&descAlignY=64&descSize=21&fontColor=ffffff" alt="Abhi Jain Header Banner" width="100%" />
 
-**Full-Stack Software Engineer** specializing in distributed backend systems and responsive web platforms. Proficient in **Java**, **Spring Boot**, **React.js**, **PostgreSQL**, and core algorithmic problem solving with **C++**.
+  <!-- DYNAMIC TYPING HOOK -->
+  <a href="https://github.com/abhi6101">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=00B4D8&center=true&vCenter=true&width=580&lines=Full+Stack+Developer+%7C+Java+%26+React.js+%E2%9A%99%EF%B8%8F;Spring+Boot+%E2%80%A2+Spring+Security+%E2%80%A2+JWT+%26+RBAC+%F0%9F%94%90;Building+Scalable+REST+APIs+%26+Relational+Schemas+%F0%9F%9A%80;Problem+Solving+%26+Data+Structures+in+C%2B%2B" alt="Typing Animation" />
+  </a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://abhi-jain-tech.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhi-jain-a1a723298)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abhijain6101@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abhi6101)
+  <!-- REPUTATION & CONNECTIVITY BADGES -->
+  <p align="center">
+    <a href="https://abhi-jain-tech.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/abhi-jain-fullstack" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="mailto:abhijain6101@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/abhi6101">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
 
----
-
-## ⚡ Technical Summary
-
-- **Backend Architecture:** Designing modular, stateless REST APIs, transactional data workflows, and role-based access control (RBAC) using **Java**, **Spring Boot**, **Spring Security**, and **JWT**.
-- **Frontend Systems:** Building performant single-page interfaces with **React.js**, **Tailwind CSS**, and **Vite**, focusing on clean component state and responsive layouts.
-- **Data Persistence:** Relational database design, query optimization, and schema migrations across **PostgreSQL** and **MySQL** via **Hibernate / Spring Data JPA**.
-- **Core Problem Solving:** Practicing algorithms and data structures in **C++** (arrays, two-pointers, hashing, and trees).
-
----
-
-## 🛠️ Skills & Technologies
-
-| Layer | Technologies |
-| :--- | :--- |
-| **Languages** | C++, Java, JavaScript (ES6+), HTML5, CSS3, SQL |
-| **Backend & Security** | Spring Boot, Spring Security, JWT, REST APIs, Hibernate, Spring Data JPA, Maven |
-| **Frontend** | React.js, Tailwind CSS, Vite, Framer Motion, Recharts |
-| **Databases** | PostgreSQL, MySQL, Supabase |
-| **DevOps & Tooling** | Git, GitHub, Docker, Postman, Vercel, Render, IntelliJ IDEA, VS Code |
-
----
-
-## 🚀 Featured Engineering Case Studies
-
-### 1. Campus Placement Management System
-> An enterprise-grade recruitment platform designed to coordinate student profiles, administrative drives, and multi-round recruitment workflows.
-
-- **Stack:** React.js, Tailwind CSS, Java, Spring Boot, Spring Security, JWT, PostgreSQL, Render, Vercel
-- **Architectural Highlights:**
-  - Implemented stateless **JWT authentication** coupled with strict **Role-Based Access Control (RBAC)** to isolate student applicant flows from administrative dashboards.
-  - Built an administrative analytics dashboard using **Recharts** alongside client-side resume verification to speed up candidate shortlisting.
-  - Structured normalized database models to guarantee transactional consistency during high-volume drive registrations.
-- **Source Code:** [Frontend Repository](https://github.com/abhi6101/placement-portal-frontend) • [Backend Repository](https://github.com/abhi6101/placement-portal-backend)
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=abhi6101&label=PROFILE+VIEWS&color=0077b6&style=flat-square" alt="Views Counter" />
+    <img src="https://img.shields.io/github/followers/abhi6101?label=FOLLOWERS&style=flat-square&color=03045e" alt="Followers Counter" />
+  </p>
+</div>
 
 ---
 
-### 2. NextInvest — Web Crowdfunding Platform
-> A full-stack crowdfunding and campaign investment application featuring dynamic balance allocation, transaction tracking, and real-time project metrics.
+<!-- ================================================================= -->
+<!-- EXECUTIVE PROFILE OVERVIEW                                        -->
+<!-- ================================================================= -->
+### ⚡ Executive Summary
 
-- **Stack:** React.js, Vite, Tailwind CSS, Spring Boot, Supabase, PostgreSQL, Render
-- **Architectural Highlights:**
-  - Designed responsive campaign contribution forms with robust input sanitization and client-side error handling.
-  - Implemented parameterized REST endpoints in Spring Boot with relational foreign-key integrity in Supabase/PostgreSQL.
-  - Configured zero-downtime deployment pipelines using Render and Vercel for rapid continuous delivery.
-- **Source Code:** [Frontend Repository](https://github.com/abhi6101/hack-react) • [UI Repository](https://github.com/abhi6101/flipr-frontend)
-
----
-
-## 📊 Code & Contribution Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhi6101&show_icons=true&theme=dark&hide_border=true&count_private=true" height="155" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi6101&layout=compact&theme=dark&hide_border=true&langs_count=6" height="155" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi6101&theme=dark&hide_border=true" height="155" alt="Streak Stats" />
-</p>
-
----
-
-<p align="center">
-  <sub>Designed with a clean, high-signal focus for software engineering roles. Available for collaboration: <a href="mailto:abhijain6101@gmail.com">abhijain6101@gmail.com</a></sub>
-</p>
+```yaml
+name: Abhi Jain
+role: Full Stack Developer / SDE Intern Aspirant
+education: Integrated MCA (CGPA: 8.04), IPS Academy, Indore
+core_stack: [Java, Spring Boot, React.js, MySQL, PostgreSQL, C++]
+specialization: Secure REST APIs, JWT & RBAC, Relational DB Design, Reactive UIs
+current_focus: Enterprise full-stack systems & DSA problem solving in C++
